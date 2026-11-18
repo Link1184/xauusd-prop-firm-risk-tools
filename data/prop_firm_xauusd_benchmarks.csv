@@ -1,0 +1,7 @@
+firm_slug,firm_name,eval_fee_100k,xauusd_london_ny_spread_pips,daily_dd,max_dd,dd_method,gold_leverage,consistency_rule,reference_url
+ftmo,FTMO,$595 (€540),1.6,5.0%,10.0%,Static Balance,1:100,0%,https://www.klevai.co.uk/compare
+fundednext,FundedNext,$549 (Stellar 2-Step),1.8,5.0%,10.0%,Balance-Based,1:100,0% (2-Step),https://www.klevai.co.uk/compare
+the5ers,The5ers,$495 (High Stakes),1.5,5.0%,10.0%,Static Floor,1:30,0%,https://www.klevai.co.uk/compare
+fundingpips,FundingPips,$399 (2-Step),1.7,5.0%,10.0%,Higher Bal/Eq,1:100,0% (2-Step),https://www.klevai.co.uk/compare
+alpha-capital,Alpha Capital Group,$497 (Alpha Pro),1.9,5.0%,10.0%,Higher Bal/Eq,1:100,40%,https://www.klevai.co.uk/compare
+e8-markets,E8 Markets,$588 (E8 Classic),1.8,5.0%,8.0%,Static Floor,1:50,0% (Eval),https://www.klevai.co.uk/compare
