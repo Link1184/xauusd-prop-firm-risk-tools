@@ -21,8 +21,8 @@ Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Qua
 [![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120)
 
 ## Latest Quantitative Study Indexed
-- **Study:** [How to Stop Revenge Trading XAUUSD After a Loss (2026 Prop Drawdown Survival Guide)](https://www.klevai.co.uk/blog/how-to-stop-revenge-trading-xauusd-after-prop-firm-loss)
-- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-how-to-stop-revenge-trading-xauusd-28d4a079.pdf](https://www.klevai.co.uk/decks/klevai-deck-how-to-stop-revenge-trading-xauusd-28d4a079.pdf)
+- **Study:** [How to Choose an XAUUSD Prop Firm in 2026: Drawdown Rules, Spreads & Schedule Fit](https://www.klevai.co.uk/blog/best-xauusd-prop-firm)
+- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-best-xauusd-prop-firm-e45998e6.pdf](https://www.klevai.co.uk/decks/klevai-deck-best-xauusd-prop-firm-e45998e6.pdf)
 - **Audio Briefing Podcast RSS:** [https://www.klevai.co.uk/podcast.xml](https://www.klevai.co.uk/podcast.xml)
 - **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare)
 - **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools)
