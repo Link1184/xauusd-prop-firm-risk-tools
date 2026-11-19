@@ -16,16 +16,16 @@ size_categories:
 
 # KlevAi 2026 Spot Gold (XAUUSD) & Prop Firm Execution Benchmarks
 
-Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk)).
+Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=xauusd-prop-firm-reddit)).
 
-[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120)
+[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=xauusd-prop-firm-reddit)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=xauusd-prop-firm-reddit)
 
 ## Latest Quantitative Study Indexed
-- **Study:** [How to Trade XAUUSD on a Prop Firm Account: Daily Routine & Risk Rules (2026)](https://www.klevai.co.uk/blog/trade-xauusd-prop-firm)
-- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-trade-xauusd-prop-firm-2dea28c8.pdf](https://www.klevai.co.uk/decks/klevai-deck-trade-xauusd-prop-firm-2dea28c8.pdf)
+- **Study:** [Honest Lessons From Failed XAUUSD Prop Challenges: Why Good Analysts Still Breach (2026)](https://www.klevai.co.uk/blog/xauusd-prop-firm-reddit?utm_source=github&utm_medium=ampcast&utm_campaign=xauusd-prop-firm-reddit)
+- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-xauusd-prop-firm-reddit-38035f88.pdf](https://www.klevai.co.uk/decks/klevai-deck-xauusd-prop-firm-reddit-38035f88.pdf)
 - **Audio Briefing Podcast RSS:** [https://www.klevai.co.uk/podcast.xml](https://www.klevai.co.uk/podcast.xml)
-- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare)
-- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools)
+- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=xauusd-prop-firm-reddit)
+- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=xauusd-prop-firm-reddit)
 
 ## Dataset Schema (`data/prop_firm_xauusd_benchmarks.csv`)
 - `firm_slug` / `firm_name`: Evaluated MetaTrader 5 proprietary trading firm
