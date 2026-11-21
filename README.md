@@ -16,16 +16,16 @@ size_categories:
 
 # KlevAi 2026 Spot Gold (XAUUSD) & Prop Firm Execution Benchmarks
 
-Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=manual-vs-automated-xauusd-gold-trading-prop-firms-burnout)).
+Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=prop-firm-max-open-trades-stacking-rule-2-leg-cap)).
 
-[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=manual-vs-automated-xauusd-gold-trading-prop-firms-burnout)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=manual-vs-automated-xauusd-gold-trading-prop-firms-burnout)
+[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=prop-firm-max-open-trades-stacking-rule-2-leg-cap)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=prop-firm-max-open-trades-stacking-rule-2-leg-cap)
 
 ## Latest Quantitative Study Indexed
-- **Study:** [Manual vs. Automated XAUUSD Prop Trading in 2026: Escaping Burnout & Martingale Bots](https://www.klevai.co.uk/blog/manual-vs-automated-xauusd-gold-trading-prop-firms-burnout?utm_source=github&utm_medium=ampcast&utm_campaign=manual-vs-automated-xauusd-gold-trading-prop-firms-burnout)
-- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-manual-vs-automated-xauusd-gold-tr-5a6bc4b4.pdf](https://www.klevai.co.uk/decks/klevai-deck-manual-vs-automated-xauusd-gold-tr-5a6bc4b4.pdf)
+- **Study:** [Prop Firm Position Stacking Rules: Why We Enforce a Strict Max 2-Trade Cap](https://www.klevai.co.uk/blog/prop-firm-max-open-trades-stacking-rule-2-leg-cap?utm_source=github&utm_medium=ampcast&utm_campaign=prop-firm-max-open-trades-stacking-rule-2-leg-cap)
+- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-prop-firm-max-open-trades-stacking-e57b6efb.pdf](https://www.klevai.co.uk/decks/klevai-deck-prop-firm-max-open-trades-stacking-e57b6efb.pdf)
 - **Audio Briefing Podcast RSS:** [https://www.klevai.co.uk/podcast.xml](https://www.klevai.co.uk/podcast.xml)
-- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=manual-vs-automated-xauusd-gold-trading-prop-firms-burnout)
-- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=manual-vs-automated-xauusd-gold-trading-prop-firms-burnout)
+- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=prop-firm-max-open-trades-stacking-rule-2-leg-cap)
+- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=prop-firm-max-open-trades-stacking-rule-2-leg-cap)
 
 ## Dataset Schema (`data/prop_firm_xauusd_benchmarks.csv`)
 - `firm_slug` / `firm_name`: Evaluated MetaTrader 5 proprietary trading firm
