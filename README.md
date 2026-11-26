@@ -16,16 +16,16 @@ size_categories:
 
 # KlevAi 2026 Spot Gold (XAUUSD) & Prop Firm Execution Benchmarks
 
-Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-trailing-drawdown)).
+Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=fxify-static-vs-trailing)).
 
-[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-trailing-drawdown)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-trailing-drawdown)
+[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=fxify-static-vs-trailing)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=fxify-static-vs-trailing)
 
 ## Latest Quantitative Study Indexed
-- **Study:** [Static vs Trailing Drawdown: 2026 XAUUSD Risk Math & Practical Prop Guide](https://www.klevai.co.uk/blog/static-vs-trailing-drawdown?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-trailing-drawdown)
-- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-static-vs-trailing-drawdown-9a0d1ea9.pdf](https://www.klevai.co.uk/decks/klevai-deck-static-vs-trailing-drawdown-9a0d1ea9.pdf)
+- **Study:** [FXIFY Static vs Trailing: 2026 XAUUSD Risk Math & Practical Prop Guide](https://www.klevai.co.uk/blog/fxify-static-vs-trailing?utm_source=github&utm_medium=ampcast&utm_campaign=fxify-static-vs-trailing)
+- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-fxify-static-vs-trailing-90797459.pdf](https://www.klevai.co.uk/decks/klevai-deck-fxify-static-vs-trailing-90797459.pdf)
 - **Audio Briefing Podcast RSS:** [https://www.klevai.co.uk/podcast.xml](https://www.klevai.co.uk/podcast.xml)
-- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-trailing-drawdown)
-- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-trailing-drawdown)
+- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=fxify-static-vs-trailing)
+- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=fxify-static-vs-trailing)
 
 ## Dataset Schema (`data/prop_firm_xauusd_benchmarks.csv`)
 - `firm_slug` / `firm_name`: Evaluated MetaTrader 5 proprietary trading firm
