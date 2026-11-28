@@ -16,16 +16,16 @@ size_categories:
 
 # KlevAi 2026 Spot Gold (XAUUSD) & Prop Firm Execution Benchmarks
 
-Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-stationary)).
+Open-access (`CC-BY-4.0`) empirical reference dataset maintained by **KlevAi Quant Desk** ([https://www.klevai.co.uk](https://www.klevai.co.uk?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-static-inline)).
 
-[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-stationary)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-stationary)
+[![KlevAi $100K FTMO XAUUSD Risk Scorecard](https://www.klevai.co.uk/og/scorecard.jpg?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-static-inline)](https://www.klevai.co.uk/tools?firm=ftmo&bal=100000&risk=0.5&sl=120&utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-static-inline)
 
 ## Latest Quantitative Study Indexed
-- **Study:** [Static vs Stationary: 2026 XAUUSD Risk Math & Practical Prop Guide](https://www.klevai.co.uk/blog/static-vs-stationary?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-stationary)
-- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-static-vs-stationary-62249bcc.pdf](https://www.klevai.co.uk/decks/klevai-deck-static-vs-stationary-62249bcc.pdf)
+- **Study:** [Static vs Static Inline: 2026 XAUUSD Risk Math & Practical Prop Guide](https://www.klevai.co.uk/blog/static-vs-static-inline?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-static-inline)
+- **7-Slide Executive PDF Deck:** [https://www.klevai.co.uk/decks/klevai-deck-static-vs-static-inline-25147c28.pdf](https://www.klevai.co.uk/decks/klevai-deck-static-vs-static-inline-25147c28.pdf)
 - **Audio Briefing Podcast RSS:** [https://www.klevai.co.uk/podcast.xml](https://www.klevai.co.uk/podcast.xml)
-- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-stationary)
-- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-stationary)
+- **Interactive 66-Pair Prop Firm Comparison Matrix:** [https://www.klevai.co.uk/compare](https://www.klevai.co.uk/compare?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-static-inline)
+- **Free XAUUSD Lot-Size & Drawdown Calculator:** [https://www.klevai.co.uk/tools](https://www.klevai.co.uk/tools?utm_source=github&utm_medium=ampcast&utm_campaign=static-vs-static-inline)
 
 ## Dataset Schema (`data/prop_firm_xauusd_benchmarks.csv`)
 - `firm_slug` / `firm_name`: Evaluated MetaTrader 5 proprietary trading firm
